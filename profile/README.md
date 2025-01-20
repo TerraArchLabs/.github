@@ -10,7 +10,7 @@ TerraArchLabs serves as an experimentation space to develop, evaluate, and docum
 
 | Experiment | Description | Status |
 |------------|-------------|---------|
-| release-please | Automation of generating changelogs and creation of GitHub Releases | In Progress |
+| release-please | Automation of generating changelogs and creation of GitHub Releases | [Complete](https://github.com/TerraArchLabs/terraform-architecture-docs/blob/main/docs/experiments/release-management/findings.md) |
 
 ## 📖 Documentation Standards
 
@@ -23,6 +23,7 @@ Each experiment documentation includes:
 - What needs work
 - Lessons learned
 - Next steps/possible improvements
+- Resources
 
 ## 📬 Contact
 
