@@ -15,7 +15,7 @@ TerraArchLabs serves as an experimentation space to develop, evaluate, and docum
 ## 📖 Documentation Standards
 
 Each experiment documentation includes:
-- Architecture diagrams
+- Solution diagrams
 - Experiment context
 - Implementation summary
 - Implementation steps
