@@ -10,7 +10,8 @@ TerraArchLabs serves as an experimentation space to develop, evaluate, and docum
 
 | Experiment | Description | Status |
 |------------|-------------|---------|
-| release-please | Automation of generating changelogs and creation of GitHub Releases | [Complete](https://github.com/TerraArchLabs/terraform-architecture-docs/blob/main/docs/experiments/release-management/findings.md) |
+| release-please | Automation of generating changelogs and creation of GitHub Releases | [Complete](https://github.com/TerraArchLabs/architecture-experiment-docs/blob/main/docs/experiments/release-please/findings.md) |
+| aws-reconstruct | Full teardown and rebuild of AWS multi-account infrastructure to test complete environment recreation | In Progress
 
 ## 📖 Documentation Standards
 
@@ -25,7 +26,7 @@ Each experiment documentation includes:
 - Next steps/possible improvements
 - Resources
 
-All findings on experiements can be found [here](https://github.com/TerraArchLabs/terraform-architecture-docs).
+All findings on experiements can be found [here](https://github.com/TerraArchLabs/architecture-experiment-docs).
 
 ## ⚠️ Disclaimer
 
