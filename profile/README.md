@@ -25,9 +25,7 @@ Each experiment documentation includes:
 - Next steps/possible improvements
 - Resources
 
-## 📬 Contact
-
-For questions or discussions about specific experiments, please use the respective repository's Issues section.
+All findings on experiements can be found [here](https://github.com/TerraArchLabs/terraform-architecture-docs).
 
 ## ⚠️ Disclaimer
 
