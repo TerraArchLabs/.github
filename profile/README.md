@@ -1,5 +1,3 @@
-# TerraArchLabs
-
 ## 🎯 Mission
 
 TerraArchLabs serves as an experimentation space to develop, evaluate, and document Terraform/OpenTofu operational and architectural ideas. The focus is on creating and sharing practical patterns that improve how infrastructure-as-code scales and operates in AWS environments.
@@ -23,7 +21,7 @@ Each experiment documentation includes:
 - What worked well
 - What needs work
 - Lessons learned
-- Next steps/possible improvements
+- Possible improvements
 - Resources
 
 All findings on experiements can be found [here](https://github.com/TerraArchLabs/architecture-experiment-docs).
